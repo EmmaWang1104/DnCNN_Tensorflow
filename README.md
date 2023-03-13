@@ -59,7 +59,8 @@ Test data: Gaussian Noise
 
 Training parameters: 10 epochs, 800 baches, batch size 128,  learning rate 0.001
 
-![9631678662157_ pic](https://user-images.githubusercontent.com/113215711/224579278-a07a60a5-da1c-4d94-89ba-2a35a51796ec.jpg)
+<img width="979" alt="Screenshot 2023-03-13 at 12 04 19 AM" src="https://user-images.githubusercontent.com/71403547/224630479-35644049-adec-4eda-974f-847441249a29.png">
+
 
 ![9641678662168_ pic](https://user-images.githubusercontent.com/113215711/224579294-a1f26617-a55e-44dd-a01d-3f6402939751.jpg)
 
@@ -69,8 +70,9 @@ Add 1% salt and pepper noise to training images
 
 Experiment with different combinations of Gaussian and SP images for training and testing the model
 
-Evaluate test results with PSNR (dB), MSE, SNR
+Evaluate test results with PSNR (dB), MSE, SNR (db)
 
+<img width="1103" alt="Screenshot 2023-03-13 at 12 04 42 AM" src="https://user-images.githubusercontent.com/71403547/224630540-34596ba1-e27f-4d03-9f92-2f31354da046.png">
 
 
 
