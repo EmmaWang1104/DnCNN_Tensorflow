@@ -72,8 +72,11 @@ Experiment with different combinations of Gaussian and SP images for training an
 
 Evaluate test results with PSNR (dB), MSE, SNR (db)
 
-<img width="1103" alt="Screenshot 2023-03-13 at 12 04 42 AM" src="https://user-images.githubusercontent.com/71403547/224630540-34596ba1-e27f-4d03-9f92-2f31354da046.png">
+<img width="1113" alt="Screenshot 2023-03-13 at 12 05 41 AM" src="https://user-images.githubusercontent.com/71403547/224630698-0abe059a-8cf0-4487-b7bd-68cd090d573e.png">
 
+<img width="1109" alt="Screenshot 2023-03-13 at 12 06 42 AM" src="https://user-images.githubusercontent.com/71403547/224630907-02cea8da-d7cc-4a47-a37e-5bd6bdcdf33e.png">
+
+<img width="1110" alt="Screenshot 2023-03-13 at 12 06 29 AM" src="https://user-images.githubusercontent.com/71403547/224630862-78004210-cb0c-44e1-b3a1-5cc34d0e8a8a.png">
 
 
 
